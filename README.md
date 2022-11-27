@@ -9,6 +9,7 @@ commu_meta.csv의 chord_progressions을 list 형태로 변환
 
 ### 2. Chord Similarity (C_Sim)
 모든 chord간의 유사도 측정 <br>
+<img width="1049" alt="스크린샷 2022-11-27 오후 5 26 17" src="https://user-images.githubusercontent.com/97666193/204125836-64214d2b-dc42-4bb3-976d-cb99f5091a24.png"> <br>
 $C_{-} \operatorname{Sim}\left(C_1, C_2\right)=\frac{\left|P\left(C_1\right) \cap P\left(C_2\right)\right|}{\left|P\left(C_1\right) \cup P\left(C_2\right)\right|}$
 
 ### 3. Sequence Similarity (S_Sim)
