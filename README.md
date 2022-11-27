@@ -13,7 +13,7 @@ $C_{-} \operatorname{Sim}\left(C_1, C_2\right)=\frac{\left|P\left(C_1\right) \ca
 
 ### 3. Sequence Similarity (S_Sim)
 코드 진행 간 유사도 측정
-$\operatorname{CS} \operatorname{Sim}\left(S_1, S_2\right)=\max _{\substack{0 \leq i \leq m-n_{-} u n i t, 0 \leq j \leq n-n_{-} \text {unit }}} \frac{\sum_{k=1}^{n_{-} \text {unit }} C_{-} \operatorname{Sim}(a[i+k], b[j+k])}{n_{-} u n i t}$
+\operatorname{CS} \operatorname{Sim}\left(S_1, S_2\right)=\max _{\substack{0 \leq i \leq m-n_{-} u n i t, 0 \leq j \leq n-n_{-} \text {unit }}} \frac{\sum_{k=1}^{n_{-} \text {unit }} C_{-} \operatorname{Sim}(a[i+k], b[j+k])}{n_{-} u n i t}
 
 ### 4. 구현 결과 예시
 ![image](https://user-images.githubusercontent.com/97666193/204125719-618ae38f-1fd4-47f4-9305-e88c58263d84.png)
