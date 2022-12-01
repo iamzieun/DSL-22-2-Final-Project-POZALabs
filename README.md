@@ -2,10 +2,10 @@
 팀원: 강건우 권수현 김경한 김서현 도승범 박수빈 박지은 백민준 송규원 안세정 진유리 차혜준
 
 ## Overview
-[Presentation YouTube](https://www.youtube.com/watch?v=sog4BxuX7Z4)
 ![4_페이지_04](https://user-images.githubusercontent.com/97666193/205016866-cc0868ab-ee99-46e6-83df-dc76e9b9ff33.jpg)
 ![4_페이지_05](https://user-images.githubusercontent.com/97666193/205016883-d1854b33-e802-4554-981b-eaf1436bc9a4.jpg)
 
+- [Presentation YouTube](https://www.youtube.com/watch?v=sog4BxuX7Z4)
 - 프로젝트 배경
     - AI 기술을 활용한 작곡 서비스 제공을 위한 표절 가능성의 판단
 - 프로젝트 목표
